@@ -21,7 +21,7 @@ export function getLegsByName(name: string): Armor | undefined {
     return armors.find(m => m.name === name && m.type === "legs");
 }
 
-export function getAllLeg(): Armor[] | undefined {
+export function getAllLegs(): Armor[] | undefined {
     return [...armors.filter(i => i.type === "legs")];
 }
 
