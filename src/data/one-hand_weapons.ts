@@ -1,6 +1,6 @@
 import { Weapon } from "../models/Weapon";
 
-export const weapons: Weapon[] =
+export const one_hand_weapons: Weapon[] =
 [
     {
         name: "녹슨 검",
