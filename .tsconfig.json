@@ -3,8 +3,8 @@
         "target": "ES2020",
         "module": "ESNext",
         "moduleResolution": "Node",
-        "declaraion": true,
-        "declaraionDir": "dist",
+        "declaration": true,
+        "declarationDir": "dist",
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true
